@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Document</title>
+    <style>
+        body {
+            background-color: aqua;
+            align-content: center;
+        }
+
+        h1 {
+            color: blueviolet;
+            font-style: inherit;
+        }
+
+        h2 {
+            color: blueviolet;
+        }
+
+        button:hover {
+            background-color: blueviolet;
+            border: none;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            transition-duration: 0.4s;
+            cursor: pointer;
+
+
+        }
+    </style>
+</head>
+
+<body align="center">
+    <h1><i> Home Automation System</i></h1>
+    <h2>Made by SANIA </h2>
+
+
+    <h2>Room#1</h2>
+    <a href="room#1_led1_on "><button>LED_1 ON</button></a>
+    <a href="room#1_led1_off "><button>LED_1 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#1_led2_on "><button>LED_2 ON</button></a>
+    <a href="room#1_led2_off "><button>LED_2 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#1_fan1_on "><button>FAN_1 ON</button></a>
+    <a href="room#1_fan1_off "><button>FAN_1 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#1_fan2_on "><button>FAN_2 ON</button></a>
+    <a href="room#1_fan2_off "><button>FAN_2 OFF</button></a>
+
+
+
+    <h2>Room#2</h2>
+    <a href="room#2_led1_on "><button>LED_1 ON</button></a>
+    <a href="room#2_led1_off "><button>LED_1 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#2_led2_on "><button>LED_2 ON</button></a>
+    <a href="room#2_led2_off "><button>LED_2 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#2_fan1_on "><button>FAN_1 ON</button></a>
+    <a href="room#2_fan1_off "><button>FAN_1 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#2_fan2_on "><button>FAN_2 ON</button></a>
+    <a href="room#2_fan2_off "><button>FAN_2 OFF</button></a>
+
+    <h2>Room#3</h2>
+    <a href="room#3_led1_on "><button>LED_1 ON</button></a>
+    <a href="room#3_led1_off "><button>LED_1 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#3_led2_on "><button>LED_2 ON</button></a>
+    <a href="room#3_led2_off "><button>LED_2 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#3_fan1_on "><button>FAN_1 ON</button></a>
+    <a href="room#3_fan1_off "><button>FAN_1 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#3_fan2_on "><button>FAN_2 ON</button></a>
+    <a href="room#3_fan2_off "><button>FAN_2 OFF</button></a>
+
+    <h2>Room#4</h2>
+    <a href="room#4_led1_on "><button>LED_1 ON</button></a>
+    <a href="room#4_led1_off "><button>LED_1 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#4_led2_on "><button>LED_2 ON</button></a>
+    <a href="room#4_led2_off "><button>LED_2 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#4_fan1_on "><button>FAN_1 ON</button></a>
+    <a href="room#4_fan1_off "><button>FAN_1 OFF</button></a>
+    <br />
+    <br />
+    <a href="room#4_fan2_on "><button>FAN_2 ON</button></a>
+    <a href="room#4_fan2_off "><button>FAN_2 OFF</button></a>
+
+
+</body>
+
+</html>
